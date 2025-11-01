@@ -21,23 +21,6 @@ A simple python project for record and analyze your expenses.
 
 ---
 
-## Expected Output
-
-*** Personal Expense Tracker ***
-
-1. Add Expense
-2. Total Spent
-3. View All Expenses
-4. Highest Expense
-5. Exit
-
-Enter your choice: 1
-Enter Expense (food/travel): Food
-Enter Amount: 25
-✅ Added: Food - $25.00
-
----
-
 ## 🧠 Future Improvements
 
 💾 Save expenses to a file (JSON or CSV)
